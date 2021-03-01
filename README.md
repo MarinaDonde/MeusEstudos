@@ -1,2 +1,2 @@
-# MeusEstudos
- CursoEmVideoGit
+# Meus Estudos
+ Curso Em Video Git
